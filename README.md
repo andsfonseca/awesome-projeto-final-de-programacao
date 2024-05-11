@@ -24,6 +24,7 @@ Este repositório contém uma lista de repositórios usados como Projeto final d
 | [2Dviewer](https://github.com/mayaragomys/2Dviewer) | Ferramenta de Visualização 2D de Dados Científicos | [@mayaragomys](https://github.com/mayaragomys)  | No repositório | <a href="https://github.com/mayaragomys/2Dviewer/blob/main/Projeto_de_programacao_.pdf" target="_blank">PDF</a> |
 | [360Viewer](https://github.com/andsfonseca/360Viewer) | Ferramenta de Visualização e Marcação de Imagens 360º em Ambientes 3D | [@andsfonseca](https://github.com/andsfonseca)  | No repositório | <a href="https://github.com/andsfonseca/360Viewer/blob/master/Projeto_de_Programacao.pdf" target="_blank">PDF</a> |
 | [image-marking-system](https://github.com/neliareis/image-marking-system) | Sistema de Marcação em Imagens 2D | [@neliareis](https://github.com/neliareis)  | No repositório | <a href="https://github.com/neliareis/image-marking-system/blob/master/Projeto_Final_de_Programa%C3%A7%C3%A3o.pdf" target="_blank">PDF</a><br><a href="https://github.com/andsfonseca/awesome-projeto-final-de-programacao/raw/master/LaTex/neliareis-image-marking-system.zip" target="_blank">LaTex Source</a> |
+| [vr-360-authoring](https://github.com/TeleMidia/VR360Authoring) | Player de Vídeo 360 graus Interativo | [@paulorcmendes](https://github.com/paulorcmendes)  | No repositório | <a href="https://github.com/TeleMidia/VR360Authoring/blob/master/documentacao.pdf" target="_blank">PDF</a>|
 
 ## Templates
 
